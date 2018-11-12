@@ -1,6 +1,6 @@
 # FluidoPython
 
-#### Fluxo Potencial com Python, para o curso da Prof. Edith Beatriz no IPH / UFRGS (1ª versão: novembro de 2018).
+#### Escoamento Potencial com Python, para o curso da Prof. Edith Beatriz no IPH / UFRGS (1ª versão: novembro de 2018).
 
 "Hidrodinâmica" (IPH 0002) aplicando a linguagem Python ao Escoamento Potencial no curso que foi cursado na
 Universidade Federal do Rio Grande do Sul pela Prof. Edith Beatriz no Instituto de Pesquisas Hidráulicas.
@@ -11,10 +11,16 @@ O material é distribuído publicamente e abertamente sob uma Licença MIT direi
 
 ### Lista de módulos:
 
-#### Módulo 1. Construção de Fluxo Potencial
+#### Módulo 0. Introdução e Revisão
 
 1. [Introdução rápida]()
-2. [Corrente Uniforme]()
-3. [Fonte e Sumidouro]()
+2. [Conceitos sobre campo potencial de velocidades]()
+3. [Conceitos sobre função corrente]()
+
+#### Módulo 1. Soluções Elementares de Escoamento Plano Irrotacional
+
+1. [Introdução rápida]()
+2. [Corrente uniforme]()
+3. [Fonte e sumidouro]()
 4. [Rotacional]()
 5. [Dipolo]()
