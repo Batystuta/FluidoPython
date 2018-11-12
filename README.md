@@ -1,6 +1,6 @@
 # FluidoPython
 
-Fluxo Potencial com Python, para o curso da Prof. Edith Beatriz no IPH / UFRGS (1ª versão: novembro de 2018).
+### Fluxo Potencial com Python, para o curso da Prof. Edith Beatriz no IPH / UFRGS (1ª versão: novembro de 2018).
 =======
 
 "Hidrodinâmica" (IPH 0002) aplicando a linguagem Python ao Escoamento Potencial no curso que foi cursado na
