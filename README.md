@@ -1,5 +1,5 @@
 # FluidoPython
-<<<<<<< HEAD
+
 Fluxo Potencial com Python, para o curso da Prof. Edith Beatriz no IPH / UFRGS (1ª versão: novembro de 2018).
 =======
 
@@ -19,4 +19,3 @@ O material é distribuído publicamente e abertamente sob uma Licença MIT direi
 3. [Fonte e Sumidouro]()
 4. [Rotacional]()
 5. [Dipolo]()
->>>>>>> origin/master
