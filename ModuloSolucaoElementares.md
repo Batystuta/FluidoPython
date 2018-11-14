@@ -2,7 +2,7 @@
 
 Este tópico apresento um estudo introdutório detalhado dos escoamentos incompressíveis não viscosos, especialmente aqueles que possuem ambas as funções, corrente e potencial de velocidades. Muitas soluções empregam o princípio da superposição, de modo que destaquei esse tipo de solução em um único módulo para melhor detalhe. Aqui vamos começar com os três escoamentos elementares, ilustrados na figura abaixo: (a) uma corrente uniforme em certa direção, (b) uma linha de fonte / sumidouro na origem e (c) uma linha de vórtice na origem.
 
-![Linhas de correntes elementares](C:\MECANICA_DE_FLUIDOS_python\Script_Prof_Edith\FluidoPython\Tres_Escoamento_Elementares.PNG)
+![Linhas de correntes elementares](Tres_Escoamento_Elementares.PNG)
 
 ## *1. Corrente uniforme em certa direção*
 
