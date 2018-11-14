@@ -19,7 +19,7 @@ $$
 $$
 \mathit{u} = \frac{\partial \phi }{\partial x} \>\>\>\>
 \mathit{v} = \frac{\partial \phi }{\partial y} \>\>\>\>
-\mathit{w} = \frac{\partial \phi }{\partial z} 
+\mathit{w} = \frac{\partial \phi }{\partial z}
 $$
 
 A equação da continuidade, $\bigtriangledown V = 0$, reduz-se à equação de Laplace para $\phi$:
@@ -64,7 +64,7 @@ Para $\psi(r,\theta)$, a mesma equação vale exatamente em termos de coordenada
 $$
 \frac{1}{r} \frac{\partial }{\partial r} \left ( r \frac{\partial \psi}{\partial r} \right ) + \frac{1}{r^{2}} \frac{\partial^2 \psi}{\partial \theta^{2}} = 0
 $$
-Um aspecto intrigante do escoamento potencial sem superfície livre é que tanto as equações governantes, equação de Laplace para $\psi$ e $\phi$ não contêm parâmetros. Logo, as soluções são puramente geométricas, dependendo apenas do formato do corpo, da orientação da corrente livre e - surpreendentemente - da posição do ponto de estagnação traseiro. Não há número de Reynolds, Froude ou Mach para complicar a semelhança dinâmica. Os escoamentos não viscosos são cinematicamente semelhantes sem parâmetros adicionais.
+Um aspecto intrigante do escoamento potencial sem superfície livre é que tanto as equações governantes, equação de Laplace para $\psi​$ e $\phi​$ não contêm parâmetros. Logo, as soluções são puramente geométricas, dependendo apenas do formato do corpo, da orientação da corrente livre e - surpreendentemente - da posição do ponto de estagnação traseiro. Não há número de Reynolds, Froude ou Mach para complicar a semelhança dinâmica. Os escoamentos não viscosos são cinematicamente semelhantes sem parâmetros adicionais.
 
 
 
