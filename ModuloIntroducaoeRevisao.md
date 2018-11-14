@@ -12,15 +12,11 @@ A mecânica dos fluidos é um tema excitante e fascinante, com aplicações prá
 
 Lembre-se que, se os efeitos viscosos são desprezados, os escoamentos a baixas velocidades são irrotacionais, $\bigtriangledown \times V = 0$, existindo o potencial de velocidades $\phi$ tal que
 
-$$
-\mathrm{V} = \bigtriangledown \phi
-$$
+$$\mathrm{V} = \bigtriangledown \phi$$
 
-$$
-\mathit{u} = \frac{\partial \phi }{\partial x} \>\>\>\>
+$$\mathit{u} = \frac{\partial \phi }{\partial x} \>\>\>\>
 \mathit{v} = \frac{\partial \phi }{\partial y} \>\>\>\>
-\mathit{w} = \frac{\partial \phi }{\partial z}
-$$
+\mathit{w} = \frac{\partial \phi }{\partial z}$$
 
 A equação da continuidade, $\bigtriangledown V = 0$, reduz-se à equação de Laplace para $\phi$:
 $$
